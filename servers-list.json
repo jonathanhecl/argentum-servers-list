@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "Server Test 1",
+      "website": "https://gs-zone.org"
+    },
+    {
+      "name": "Server Test 2",
+      "website": "https://gs-zone.org"
+    }
+  ]
+}
