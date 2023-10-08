@@ -3,12 +3,12 @@
     {
       "name": "Server Test 1",
       "website": "https://gs-zone.org",
-	  "image": "test1.png"
+      "image": "test1.png"
     },
     {
       "name": "Server Test 2",
       "website": "https://gs-zone.org",
-	  "image": "test2.png"
+      "image": "test2.png"
     }
   ]
 }
